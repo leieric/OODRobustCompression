@@ -17,7 +17,6 @@ To train models, run `bash scripts/{exp}.sh` in either of the directories, where
 - `compress_ae_wass_ball`: end-to-end model with min-max training over the wasserstein ball
 - `compress_ae_rotations`: end-to-end model with min-max training over the rotation angles
 - `structured`: structured model from Figure 2 for wasserstein ball
-- `structured_groupshift_rotation`: structured model from Figure 2 for rotation angles
 
 
 # Citation
